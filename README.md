@@ -4,7 +4,7 @@ This is a very simple example of a interactive dashboard compaing the weather in
 
 To view the dashboard click on the link below:
 
-https://github.com/dyfrigmon/Weather_Dashboard_Project/blob/master/WeatherDashboardSmall.html
+http://htmlpreview.github.io/?https://github.com/dyfrigmon/Weather_Dashboard_Project/blob/master/WeatherDashboardSmall.html
 
 ## Tools used in this project.
 - python (urllib2, plotly)
